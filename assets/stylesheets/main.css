@@ -58,3 +58,8 @@ body {
         .header__left--txt:hover {
             text-decoration: underline;
         }
+
+    .header__center--svg {
+        height: 26px;
+        margin-top: .5em;
+    }
