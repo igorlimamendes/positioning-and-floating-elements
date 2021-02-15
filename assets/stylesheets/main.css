@@ -50,3 +50,11 @@ body {
                 height: 16px;
                 vertical-align: middle;
             }
+
+    .header__left--txt {
+        vertical-align: middle;
+        font-size: 1.5em;
+    }
+        .header__left--txt:hover {
+            text-decoration: underline;
+        }
