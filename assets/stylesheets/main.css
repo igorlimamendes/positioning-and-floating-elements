@@ -4,3 +4,13 @@
 * {
     box-sizing: border-box;
 }
+
+:root {
+    --white: #FFF;
+    --black: #000;
+    --headerBorder: #E2E2E2;
+    --headerSvgBoxBackgroundHover: #F7F7F7;
+    --headerBtnBackground: #567B95;
+    --headerBtnBorder: #326891;
+    --headerBtnBorderHover: #326891;
+}
