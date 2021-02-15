@@ -14,3 +14,8 @@
     --headerBtnBorder: #326891;
     --headerBtnBorderHover: #326891;
 }
+
+body {
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
