@@ -34,3 +34,19 @@ body {
     height: 43px;
     padding: 0 2em;
 }
+    .header__left__svgBox {
+        padding: 1.2em .8em;
+        border-radius: 3px;
+        transition: .5s ease;
+    }
+        .header__left__svgBox:hover {
+            background: var(--headerSvgBoxBackgroundHover);
+        }
+
+        .header__left__svgBox:nth-last-of-type(2) {
+            margin: 0 1.3em 0 .9em;
+        }
+            .header__left__svgBox--svg {
+                height: 16px;
+                vertical-align: middle;
+            }
