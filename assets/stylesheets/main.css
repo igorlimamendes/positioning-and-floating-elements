@@ -63,3 +63,21 @@ body {
         height: 26px;
         margin-top: .5em;
     }
+
+    .header__right--btn {
+        background-color: var(--headerBtnBackground);
+        border: 1px solid var(--headerBtnBorder);
+        color: var(--white);
+        font-size: 1.15em;
+        padding: .7em 1em;
+        border-radius: 3px;
+        transition: .3s linear;
+    }
+        .header__right--btn:last-of-type {
+            margin-left: .4em;
+        }
+
+        .header__right--btn:hover {
+            cursor: pointer;
+            background: var(--headerBtnBorderHover);
+        }
