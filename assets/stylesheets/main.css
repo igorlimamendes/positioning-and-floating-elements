@@ -108,7 +108,11 @@ body {
         align-items: center;
         justify-content: space-between;
     }
+        .footer__top--svg {
+            height: 26px;
+        }
 
-    .footer__top--svg {
-        height: 26px;
-    }
+        .footer__top--txt {
+            color: var(--headerBtnBackground);
+            font-size: .9em;
+        }
