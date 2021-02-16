@@ -20,6 +20,8 @@
 body {
     font-size: 10px;
     font-family: 'Roboto', sans-serif;
+    background: var(--white);
+    color: var(--black);
 }
     a {
         text-decoration: none;
