@@ -185,3 +185,10 @@ body {
             flex-flow: row wrap;
             justify-content: space-between;
         }
+            .footer__nav2__ul a {
+                color: var(--footerNav2Txt);
+                font-size: .9em;
+            }
+                .footer__nav2__ul a:hover {
+                    text-decoration: underline;
+                }
