@@ -108,3 +108,7 @@ body {
         align-items: center;
         justify-content: space-between;
     }
+
+    .footer__top--svg {
+        height: 26px;
+    }
