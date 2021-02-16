@@ -122,3 +122,8 @@ body {
         flex-flow: row nowrap;
         justify-content: space-between;
     }
+        .footer__nav1__ul--heading {
+            display: inline-block;
+            margin-bottom: .3em;
+            font-weight: bold;
+        }
