@@ -134,3 +134,8 @@ body {
             .footer__nav1__ul a:hover {
                 text-decoration: underline;
             }
+
+        .footer__nav1__ul.subscribe {
+            border-left: 1px solid var(--headerBorder);
+            padding: 0 4em 0 1.5em;
+        }
