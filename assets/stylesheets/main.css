@@ -180,3 +180,8 @@ body {
         margin-top: .7em;
         padding: 1em 2.5em;
     }
+        .footer__nav2__ul {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: space-between;
+        }
