@@ -116,3 +116,9 @@ body {
             color: var(--headerBtnBackground);
             font-size: .9em;
         }
+
+    .footer__nav1 {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
+    }
