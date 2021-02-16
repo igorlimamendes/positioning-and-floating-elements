@@ -169,3 +169,8 @@ body {
                     display: flex;
                     align-items: center;
                 }
+                    .subscribe svg {
+                        width: 13px;
+                        height: 13px;
+                        margin-right: 7px;
+                    }
