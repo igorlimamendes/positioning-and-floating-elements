@@ -13,6 +13,8 @@
     --headerBtnBackground: #567B95;
     --headerBtnBorder: #326891;
     --headerBtnBorderHover: #326891;
+    --footerNav2Border: #EBEBEB;
+    --footerNav2Txt: #666;
 }
 
 body {
