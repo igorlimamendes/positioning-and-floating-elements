@@ -127,3 +127,10 @@ body {
             margin-bottom: .3em;
             font-weight: bold;
         }
+        
+        .footer__nav1__ul li {
+            line-height: 2;
+        }
+            .footer__nav1__ul a:hover {
+                text-decoration: underline;
+            }
