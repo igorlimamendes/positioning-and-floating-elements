@@ -192,6 +192,9 @@ body {
                     justify-content: center;
                     position: relative;
                 }
+                    .main__social__commentBox--i:hover {
+                        opacity: .5;
+                    }
 
 /* Footer */
 .footer {
