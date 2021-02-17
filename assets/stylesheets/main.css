@@ -149,6 +149,11 @@ body {
                     border-color: var(--iconBoxHover);
                 }
 
+                .main__social__iconBox--svg {
+                    width: 16px;
+                    height: 16px;
+                }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
