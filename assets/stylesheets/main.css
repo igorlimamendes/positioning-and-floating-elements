@@ -154,6 +154,13 @@ body {
                     height: 16px;
                 }
 
+                .saveIcon--svg {
+                    height: 25px;
+                }
+                    .saveIcon--svg:hover {
+                        opacity: .2;
+                    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
