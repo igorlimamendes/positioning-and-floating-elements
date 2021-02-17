@@ -229,6 +229,17 @@ body {
             display: inline-block;
         }
 
+        .main__figure--figcaption {
+            margin-top: .5em;
+            line-height: 1.3;
+            font-size: 1.6em;
+            text-align: left;
+            width: 45em;
+            max-width: 100%;
+            color: var(--footerNav2Txt);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+        }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
