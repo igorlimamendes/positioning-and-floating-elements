@@ -132,6 +132,9 @@ body {
         margin: 2em auto 3em;
         padding-top: 2em;
     }
+        .main__social li {
+            margin-right: 1.5em;
+        }
 
 /* Footer */
 .footer {
