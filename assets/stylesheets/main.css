@@ -161,6 +161,19 @@ body {
                         opacity: .2;
                     }
 
+            .main__social__whatsappBox {
+                display: inline-block;
+                vertical-align: middle;
+                border: 1px solid var(--articleIconDefault);
+                border-radius: 100%;
+                padding: 1.4em;
+                background-image: url(/assets/images/whatsapp.svg);
+                background-size: 15px;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-color: var(--articleIconDefault);
+            }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
