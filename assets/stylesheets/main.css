@@ -1,6 +1,11 @@
 /* General style */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
+@font-face {
+    font-family: nyt-cheltenham-italic-700;
+    src: url(/assets/fonts/cheltenham-italic-700.ttf);
+}
+
 * {
     box-sizing: border-box;
 }
