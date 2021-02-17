@@ -135,6 +135,14 @@ body {
         .main__social li {
             margin-right: 1.5em;
         }
+            .main__social__iconBox {
+                display: inline-block;
+                vertical-align: middle;
+                background: var(--articleIconDefault);
+                border: 1px solid var(--articleIconDefault);
+                border-radius: 100%;
+                padding: .5em;
+            }
 
 /* Footer */
 .footer {
