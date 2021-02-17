@@ -143,6 +143,11 @@ body {
                 border-radius: 100%;
                 padding: .5em;
             }
+                .main__social__iconBox:hover,
+                .main__social__whatsappBox:hover {
+                    background-color: var(--white);
+                    border-color: var(--iconBoxHover);
+                }
 
 /* Footer */
 .footer {
