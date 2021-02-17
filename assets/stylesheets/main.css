@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: nyt-cheltenham-italic-700;
-    src: url(/assets/fonts/cheltenham-italic-700.ttf);
+    src: url(../fonts/cheltenham-italic-700.ttf);
 }
 
 * {
@@ -144,7 +144,7 @@ body {
                 padding: .5em;
             }
                 .main__social__iconBox:hover,
-                .main__social__whatsappBox:hover {
+                .main__social__whatsappBox--svg:hover {
                     background-color: var(--white);
                     border-color: var(--iconBoxHover);
                 }
@@ -162,12 +162,14 @@ body {
                     }
 
             .main__social__whatsappBox {
-                display: inline-block;
+                padding-right: 1.5em;
+            }
+
+            .main__social__whatsappBox--svg {
                 vertical-align: middle;
                 border: 1px solid var(--articleIconDefault);
                 border-radius: 100%;
-                padding: 1.4em;
-                background-image: url(/assets/images/whatsapp.svg);
+                padding: .7em;
                 background-size: 15px;
                 background-repeat: no-repeat;
                 background-position: center;
