@@ -218,6 +218,12 @@ body {
                         left: 16px;
                     }
 
+    .main__figure {
+        margin: 0 auto;
+        text-align: center;
+        max-width: 94em;
+    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
