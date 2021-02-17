@@ -20,6 +20,10 @@
     --headerBtnBorderHover: #326891;
     --footerNav2Border: #EBEBEB;
     --footerNav2Txt: #666;
+    --articleSocialBorder: #EBEBEB;
+    --articleIconDefault: #EEE;
+    --articleFigureAuthor: #888;
+    --iconBoxHover: #CCC;
 }
 
 body {
