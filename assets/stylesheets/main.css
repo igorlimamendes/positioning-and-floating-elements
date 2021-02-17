@@ -207,6 +207,17 @@ body {
                         left: 15px;
                     }
 
+                    .main__social__commentBox--i::after {
+                        border-width: 6px 0px 0px 6px;
+                        border-style: solid;
+                        border-color: var(--white) transparent;
+                        content: "";
+                        display: block;
+                        position: absolute;
+                        bottom: -6px;
+                        left: 16px;
+                    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
