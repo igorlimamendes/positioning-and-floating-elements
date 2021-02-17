@@ -174,6 +174,15 @@ body {
                 background-color: var(--articleIconDefault);
             }
 
+            .main__social__commentBox {
+                display: inline-flex;
+                font-size: 1.15em;
+                min-height: 25px;
+                overflow: visible;
+                padding: 0 0 .4em;
+                position: relative;
+            }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
