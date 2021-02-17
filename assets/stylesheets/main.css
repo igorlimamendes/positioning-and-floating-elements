@@ -115,6 +115,11 @@ body {
         margin: 0 auto;
         font-family: nyt-cheltenham-italic-700;
     }
+        .main__titleBox--h1 {
+            margin: 0;
+            font-size: 4em;
+            line-height: 1.2;
+        }
 
 /* Footer */
 .footer {
