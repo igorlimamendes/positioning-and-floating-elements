@@ -52,6 +52,10 @@ body {
     border-bottom: 1px solid var(--headerBorder);
     height: 43px;
     padding: 0 2em;
+    font-family: 'Roboto', sans-serif;
+    position: sticky;
+    top: 0;
+    background: var(--white);
 }
     .header__left__svgBox {
         padding: 1.2em .8em;
