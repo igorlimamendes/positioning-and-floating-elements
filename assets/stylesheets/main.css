@@ -240,6 +240,11 @@ body {
             font-family: 'Franklin Gothic Medium', 'Arial Narrow';
         }
 
+        .main__figure--figcaptionAuthor {
+            color: var(--articleFigureAuthor);
+            font-size: .85em;
+        }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
