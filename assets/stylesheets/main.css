@@ -105,6 +105,11 @@ body {
             background: var(--headerBtnBorderHover);
         }
 
+/* Main */
+.main {
+    padding: 5.7em 2em 0;
+}
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
