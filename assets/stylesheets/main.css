@@ -196,6 +196,17 @@ body {
                         opacity: .5;
                     }
 
+                    .main__social__commentBox--i::before {
+                        border-width: 6px 0px 0px 8px;
+                        border-style: solid;
+                        border-color: var(--footerNav2Txt) transparent;
+                        content: "";
+                        display: block;
+                        position: absolute;
+                        bottom: -7px;
+                        left: 15px;
+                    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
