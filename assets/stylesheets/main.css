@@ -109,6 +109,12 @@ body {
 .main {
     padding: 5.7em 2em 0;
 }
+    .main__titleBox {
+        width: 60em;
+        max-width: 100%;
+        margin: 0 auto;
+        font-family: nyt-cheltenham-italic-700;
+    }
 
 /* Footer */
 .footer {
