@@ -121,6 +121,18 @@ body {
             line-height: 1.2;
         }
 
+    .main__social {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        justify-content: flex-start;
+        border-top: 1px solid var(--articleSocialBorder);
+        width: 60em;
+        max-width: 100%;
+        margin: 2em auto 3em;
+        padding-top: 2em;
+    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
