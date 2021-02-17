@@ -182,6 +182,16 @@ body {
                 padding: 0 0 .4em;
                 position: relative;
             }
+                .main__social__commentBox--i {
+                    border: 1px solid var(--footerNav2Txt);
+                    border-radius: 4px;
+                    min-width: 36px;
+                    padding: .4em;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    position: relative;
+                }
 
 /* Footer */
 .footer {
