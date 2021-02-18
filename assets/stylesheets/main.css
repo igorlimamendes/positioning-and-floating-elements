@@ -317,6 +317,72 @@ body {
                 font-size: .95em;
             }
 
+            .theoryOfInflation {
+                width: 47em;
+                position: relative;
+                right: 8.4em;
+                margin-top: 2em;
+                margin-bottom: -9em;
+            }
+                .theoryOfInflation__header h4 {
+                    margin: 0;
+                    font-size: .85em;
+                }
+
+                .theoryOfInflation__header p {
+                    margin: 0 0 .5em 0;
+                    font-size: .7em;
+                    color: var(--footerNav2Txt);
+                }
+
+                .theoryOfInflation__figure {
+                    margin: 0;
+                }
+                    .theoryOfInflation__figure img {
+                        width: 100%;
+                    }
+
+                    .theoryOfInflation__figure__caption {
+                        display: flex;
+                        flex-flow: row nowrap;
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: .6em;
+                    }
+                        .theoryOfInflation__figure__caption div {
+                            background: transparent;
+                            position: relative;
+                            margin-right: 1em;
+                        }
+                        
+                        .box1 div {
+                            bottom: 37em;
+                        }
+                            .box1 div:last-child {
+                                left: 2.5em;
+                            }
+                        
+                        .box2 div {
+                            bottom: 22.5em;
+                        }
+                            .theoryOfInflation__figure__caption span {
+                                font-weight: bold;
+                                margin-right: .5em;
+                                font-size: .9em;
+                            }
+                        
+                        .theoryOfInflation--hr {
+                            width: 3em;
+                            position: relative;
+                            bottom: 11em;
+                            right: 22em;
+                        }
+
+                        .theoryOfInflation--figcaption {
+                            position: relative;
+                            bottom: 15em;
+                            font-size: .7em;
+                        }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
