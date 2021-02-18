@@ -280,6 +280,13 @@ body {
             margin: 0;
         }
 
+        .main__article__txtBox {
+            font-family: imperial-normal-500;
+            font-size: 2em;
+            margin-top: 1.3em;
+            line-height: 1.5;
+        }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
