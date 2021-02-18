@@ -291,6 +291,27 @@ body {
                 text-decoration: underline;
             }
 
+            .subscribeTheTimes {
+                text-align: center;
+                font-size: .7em;
+                font-family: "Roboto", sans-serif;
+            }
+                .subscribeTheTimes hr {
+                    width: 5em;
+                    opacity: .5;
+                }
+
+                .subscribeTheTimes p {
+                    margin: 0;
+                    padding-top: .7em;
+                }
+
+                .subscribeTheTimes a {
+                    display: inline-block;
+                    padding-bottom: .7em;
+                    text-decoration: none;
+                }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
