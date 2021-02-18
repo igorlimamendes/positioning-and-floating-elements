@@ -392,6 +392,19 @@ body {
                     border: none;
                 }
 
+                .figcaptionStyle {
+                    line-height: 1.3;
+                    font-size: .8em;
+                    width: 30em;
+                    max-width: 100%;
+                    color: var(--footerNav2Txt);
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+                }
+                    .spanStyle {
+                        color: var(--articleFigureAuthor);
+                        font-size: .9em;
+                    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
