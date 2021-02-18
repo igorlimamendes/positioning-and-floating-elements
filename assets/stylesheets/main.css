@@ -261,6 +261,19 @@ body {
             font-weight: bold;
         }
 
+        .main__article__titleBox--h2 {
+            margin: 0 0 1.5em .1em;
+            display: inline-block;
+            font-size: 1.4em;
+        }
+            .main__article__titleBox--h2 a {
+                text-decoration: underline;
+                text-decoration-color: var(--iconBoxHover);
+            }
+                .main__article__titleBox--h2 a:hover {
+                    text-decoration: none;
+                }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
