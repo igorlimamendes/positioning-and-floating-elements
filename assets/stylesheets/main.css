@@ -251,6 +251,12 @@ body {
             font-size: .85em;
         }
 
+    .main__article {
+        max-width: 600px;
+        margin: 5em auto 2em;
+        color: var(--mainArticleTitleBox);
+    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
