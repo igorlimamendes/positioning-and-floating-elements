@@ -6,6 +6,11 @@
     src: url(../fonts/cheltenham-italic-700.ttf);
 }
 
+@font-face {
+    font-family: imperial-normal-500;
+    src: url(../fonts/imperial-normal-500.ttf);
+}
+
 * {
     box-sizing: border-box;
 }
