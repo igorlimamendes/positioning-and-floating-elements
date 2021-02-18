@@ -418,6 +418,13 @@ body {
                     width: 100%;
                 }
 
+    .main__articleInfo,
+    .main__articleBottom {
+        width: 600px;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
