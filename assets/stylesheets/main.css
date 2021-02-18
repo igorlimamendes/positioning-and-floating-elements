@@ -256,6 +256,10 @@ body {
         margin: 5em auto 2em;
         color: var(--mainArticleTitleBox);
     }
+        .main__article__titleBox--span {
+            font-size: 1.4em;
+            font-weight: bold;
+        }
 
 /* Footer */
 .footer {
