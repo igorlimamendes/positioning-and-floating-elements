@@ -462,6 +462,14 @@ body {
                 background-color: var(--headerBtnBorder);
             }
 
+        .main__articleBottom__ul {
+            display: inline-flex;
+            padding-left: 5.5em;
+        }
+            .main__articleBottom__ul li {
+                margin-left: 1.5em;
+            }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
