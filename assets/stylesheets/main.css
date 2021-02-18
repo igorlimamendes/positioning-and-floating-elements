@@ -162,10 +162,6 @@ body {
                         opacity: .2;
                     }
 
-            .main__social__whatsappBox {
-                padding-right: 1.5em;
-            }
-
             .main__social__whatsappBox--svg {
                 vertical-align: middle;
                 border: 1px solid var(--articleIconDefault);
@@ -175,6 +171,8 @@ body {
                 background-repeat: no-repeat;
                 background-position: center;
                 background-color: var(--articleIconDefault);
+                width: 31px;
+                height: 31px;
             }
 
             .main__social__commentBox {
