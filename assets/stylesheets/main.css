@@ -405,6 +405,19 @@ body {
                         font-size: .9em;
                     }
 
+            .imageSection {
+                margin: 2em 0;
+                width: 600px;
+                max-width: 100%;
+            }
+                .imageSection img {
+                    width: 600px;
+                }
+
+                .imageSection .figcaptionStyle {
+                    width: 100%;
+                }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
