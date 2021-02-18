@@ -22,13 +22,13 @@
     --headerSvgBoxBackgroundHover: #F7F7F7;
     --headerBtnBackground: #567B95;
     --headerBtnBorder: #326891;
-    --headerBtnBorderHover: #326891;
     --footerNav2Border: #EBEBEB;
     --footerNav2Txt: #666;
     --articleSocialBorder: #EBEBEB;
     --articleIconDefault: #EEE;
     --articleFigureAuthor: #888;
     --iconBoxHover: #CCC;
+    --mainArticleTitleBox: #333;
 }
 
 body {
@@ -108,7 +108,7 @@ body {
 
         .header__right--btn:hover {
             cursor: pointer;
-            background: var(--headerBtnBorderHover);
+            background: var(--headerBtnBorder);
         }
 
 /* Main */
