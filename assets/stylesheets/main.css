@@ -425,6 +425,19 @@ body {
         margin: 0 auto;
     }
 
+    .main__articleInfo {
+        color: var(--footerNav2Txt);
+        line-height: 1.5;
+        margin: 2em auto;
+    }
+        .main__articleInfo a {
+            color: var(--footerNav2Txt);
+            text-decoration: underline;
+        }
+            .main__articleInfo a:hover {
+                text-decoration: none;
+            }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
