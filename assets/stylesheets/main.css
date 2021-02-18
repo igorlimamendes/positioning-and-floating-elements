@@ -383,6 +383,15 @@ body {
                             font-size: .7em;
                         }
 
+            .videoSection {
+                margin: 2em 0;
+            }
+                .videoSection iframe {
+                    width: 600px;
+                    height: 315px;
+                    border: none;
+                }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
