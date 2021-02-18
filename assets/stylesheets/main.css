@@ -312,6 +312,11 @@ body {
                     text-decoration: none;
                 }
 
+            .breakSection {
+                font-weight: bold;
+                font-size: .95em;
+            }
+
 /* Footer */
 .footer {
     border-top: 2px solid var(--headerBorder);
